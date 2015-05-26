@@ -29,6 +29,5 @@ immediately. We would prefer that you do not use a web view for this (use a yout
 library instead).
 	- The user should be able to navigate back to the list view after viewing the 
 youtube video. 
-	- [Click here](example.jpg) for a screenshot mock up of what the final product should look like
 4. Commit and Push your code to your new repository
 5. Send us a pull request, we will review your code and get back to you
