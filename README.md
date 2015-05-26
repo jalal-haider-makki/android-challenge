@@ -1,6 +1,6 @@
 ## Android Programming Task
 
-In order to be considered for the Android position, you mush complete the following steps. 
+In order to be considered for the Android position, you must complete the following steps. 
 
 *Note: This task should take no longer than 1-2 hours at the most.*
 
@@ -23,8 +23,8 @@ http://cscompanion.com/api/test.json
 playlists as 
 list items.
 	- When a playlist item is tapped, the app should drill down and show each item of the 
-seleced playlist with it's corresponding thumbnail image.
-	- When a video item is tapped the youtube video should begin playing 
+selected playlist with it's corresponding thumbnail image.
+	- When a video item is tapped, the youtube video should begin playing 
 immediately. We would prefer that you do not use a web view for this (use a youtube 
 library instead).
 	- The user should be able to navigate back to the list view after viewing the 
