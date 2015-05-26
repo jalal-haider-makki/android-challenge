@@ -21,10 +21,10 @@ In order to be considered for the Android position, you mush complete the follow
 http://cscompanion.com/api/test.json
 	- Create a list view that shows each of the 
 playlists as 
-items.
-	- When a list item is tapped, the app should drill down and show each item of the 
-seleced playlist with it's corresponding thumbnail.
-	- When a playlist item is tapped the youtube video should begin playing 
+list items.
+	- When a playlist item is tapped, the app should drill down and show each item of the 
+seleced playlist with it's corresponding thumbnail image.
+	- When a video item is tapped the youtube video should begin playing 
 immediately. We would prefer that you do not use a web view for this (use a youtube 
 library instead).
 	- The user should be able to navigate back to the list view after viewing the 
